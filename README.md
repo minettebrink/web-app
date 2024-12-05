@@ -1,4 +1,4 @@
-#Sveltekit project
+# Sveltekit project
 
 Learnign how to use Sveltkit
 
